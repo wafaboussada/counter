@@ -6,7 +6,6 @@ btMoins.addEventListener('click', function() {
         console.log('hello', nb.innerHTML, nb.innerHTML !== 0,
             typeof(nb.innerHTML))
         nb.innerHTML--;
-        console.log('wafa');
     }
 });
 btPlus.addEventListener('click', function() {
